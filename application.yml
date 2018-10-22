@@ -6,5 +6,4 @@ spring:
       database: ProfileDB
       repositories:
         enabled: true  
-name: pramod verma
         
